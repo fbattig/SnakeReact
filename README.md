@@ -1,2 +1,0 @@
-# SnakeReact
-Created with CodeSandbox
